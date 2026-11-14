@@ -1,14 +1,14 @@
 [
     {
-        "chunk_id": "C1",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C1",
         "name": "LocalFileAdapter",
         "chunk_type": "class",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
         "parent_id": null,
         "children": [
-            "C2",
-            "C3",
-            "C4"
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C2",
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C3",
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C4"
         ],
         "start_line": 60,
         "end_line": 71,
@@ -16,11 +16,11 @@
         "is_embedding_chunk": false
     },
     {
-        "chunk_id": "C2",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C2",
         "name": "__init__",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C1",
         "children": [],
         "start_line": 61,
         "end_line": 63,
@@ -28,11 +28,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C3",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C3",
         "name": "read",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C1",
         "children": [],
         "start_line": 65,
         "end_line": 67,
@@ -40,11 +40,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C4",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C4",
         "name": "getbuffer",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C1",
         "children": [],
         "start_line": 70,
         "end_line": 71,
@@ -52,7 +52,7 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C5",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C5",
         "name": "list_supported_files",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
@@ -64,7 +64,7 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C6",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C6",
         "name": "query_rag",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
@@ -76,7 +76,7 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C7",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C7",
         "name": "load_local_dataset",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
@@ -88,7 +88,7 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C8",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C8",
         "name": "run_metric_with_retry",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
@@ -100,17 +100,17 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C9",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C9",
         "name": "main",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
         "parent_id": null,
         "children": [
-            "C10",
-            "C11",
-            "C12",
-            "C13",
-            "C14"
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C10",
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C11",
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C12",
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C13",
+            "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C14"
         ],
         "start_line": 183,
         "end_line": 403,
@@ -118,11 +118,11 @@
         "is_embedding_chunk": false
     },
     {
-        "chunk_id": "C10",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C10",
         "name": "main_part_1",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C9",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C9",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -130,11 +130,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C11",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C11",
         "name": "main_part_2",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C9",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C9",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -142,11 +142,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C12",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C12",
         "name": "main_part_3",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C9",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C9",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -154,11 +154,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C13",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C13",
         "name": "main_part_4",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C9",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C9",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -166,11 +166,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C14",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C14",
         "name": "main_part_5",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\doc_chat_deepeval.py",
-        "parent_id": "C9",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/doc_chat_deepeval.py::C9",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -178,17 +178,17 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C1",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C1",
         "name": "GroqEvalModel",
         "chunk_type": "class",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\groq_eval_model.py",
         "parent_id": null,
         "children": [
-            "C2",
-            "C3",
-            "C4",
-            "C5",
-            "C6"
+            "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C2",
+            "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C3",
+            "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C4",
+            "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C5",
+            "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C6"
         ],
         "start_line": 9,
         "end_line": 31,
@@ -196,11 +196,11 @@
         "is_embedding_chunk": false
     },
     {
-        "chunk_id": "C2",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C2",
         "name": "__init__",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\groq_eval_model.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C1",
         "children": [],
         "start_line": 11,
         "end_line": 17,
@@ -208,11 +208,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C3",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C3",
         "name": "load_model",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\groq_eval_model.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C1",
         "children": [],
         "start_line": 19,
         "end_line": 20,
@@ -220,11 +220,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C4",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C4",
         "name": "generate",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\groq_eval_model.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C1",
         "children": [],
         "start_line": 22,
         "end_line": 24,
@@ -232,11 +232,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C5",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C5",
         "name": "a_generate",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\groq_eval_model.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C1",
         "children": [],
         "start_line": 26,
         "end_line": 28,
@@ -244,11 +244,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C6",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C6",
         "name": "get_model_name",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\groq_eval_model.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/groq_eval_model.py::C1",
         "children": [],
         "start_line": 30,
         "end_line": 31,
@@ -256,15 +256,15 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C1",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C1",
         "name": "LocalFileAdapter",
         "chunk_type": "class",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
         "parent_id": null,
         "children": [
-            "C2",
-            "C3",
-            "C4"
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C2",
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C3",
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C4"
         ],
         "start_line": 38,
         "end_line": 48,
@@ -272,11 +272,11 @@
         "is_embedding_chunk": false
     },
     {
-        "chunk_id": "C2",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C2",
         "name": "__init__",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C1",
         "children": [],
         "start_line": 39,
         "end_line": 41,
@@ -284,11 +284,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C3",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C3",
         "name": "read",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C1",
         "children": [],
         "start_line": 43,
         "end_line": 45,
@@ -296,11 +296,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C4",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C4",
         "name": "getbuffer",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C1",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C1",
         "children": [],
         "start_line": 47,
         "end_line": 48,
@@ -308,7 +308,7 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C5",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C5",
         "name": "list_supported_files",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
@@ -320,7 +320,7 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C6",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C6",
         "name": "query_mm",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
@@ -332,15 +332,15 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C7",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C7",
         "name": "main",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
         "parent_id": null,
         "children": [
-            "C8",
-            "C9",
-            "C10"
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C8",
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C9",
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C10"
         ],
         "start_line": 73,
         "end_line": 139,
@@ -348,11 +348,11 @@
         "is_embedding_chunk": false
     },
     {
-        "chunk_id": "C8",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C8",
         "name": "main_part_1",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C7",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C7",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -360,11 +360,11 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C9",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C9",
         "name": "main_part_2",
         "chunk_type": "function_part",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C7",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C7",
         "children": [],
         "start_line": null,
         "end_line": null,
@@ -372,13 +372,13 @@
         "is_embedding_chunk": true
     },
     {
-        "chunk_id": "C10",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C10",
         "name": "_G",
         "chunk_type": "class",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C7",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C7",
         "children": [
-            "C11"
+            "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C11"
         ],
         "start_line": 106,
         "end_line": 109,
@@ -386,11 +386,11 @@
         "is_embedding_chunk": false
     },
     {
-        "chunk_id": "C11",
+        "chunk_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C11",
         "name": "__init__",
         "chunk_type": "function",
         "file_path": "C:\\Users\\gargd\\Code_Assistant\\python_files\\mm_doc_chat_deepeval.py",
-        "parent_id": "C10",
+        "parent_id": "C:/Users/gargd/Code_Assistant/python_files/mm_doc_chat_deepeval.py::C10",
         "children": [],
         "start_line": 107,
         "end_line": 109,
